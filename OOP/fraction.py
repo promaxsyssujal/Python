@@ -9,5 +9,4 @@ class Fraction:
         result=self.num/self.den
         print("Result>>",result)
 
-
 s=Fraction(4,5)
